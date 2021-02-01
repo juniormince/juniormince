@@ -1,4 +1,4 @@
-### sup buds <img src="https://i.imgur.com/R6NCsOM.gif"/>
+### sup buds <img src="https://i.imgur.com/R6NCsOM.gif" width="40"/>
 
 <img src="https://media.giphy.com/media/3ZA1S5ZYwSRzy/giphy.gif"/>
 
