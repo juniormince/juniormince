@@ -4,7 +4,7 @@
 
 <img align="right" alt="A gif of Buster with the dialog Im having real trouble in a confined indoor space" src="https://media.giphy.com/media/3ZA1S5ZYwSRzy/giphy.gif">
 
-hello and welcome, full stack dev currently working with wordpress and wordpress accessories. currently a big fan of love containers. box 'em up baby
+hello and welcome, full stack dev currently working with wordpress and wordpress accessories. personally a big fan of love containers. box 'em up baby
 
 * 🏹 dev, drummer, disco defender
 * 🌱 learning: docker 🐳, kubernetes 🦑, русский язык, how to beat the ancestral spirit in elden ring even though they're so pretty and i kinda don't want to
