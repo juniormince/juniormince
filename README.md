@@ -2,11 +2,6 @@
 
 # <sub>sup buds</sub> ✌️
 
-
-![a gif of Buster with the dialog Im having real trouble in a confined indoor space](https://media.giphy.com/media/3ZA1S5ZYwSRzy/giphy.gif)
-
-<img align="right" alt="A gif of Buster with the dialog Im having real trouble in a confined indoor space" src="https://media.giphy.com/media/3ZA1S5ZYwSRzy/giphy.gif" width="305px;">
-
 <img align="right" alt="A gif of Buster with the dialog Im having real trouble in a confined indoor space" src="https://media.giphy.com/media/3ZA1S5ZYwSRzy/giphy.gif" width="305px;">
 
 hello and welcome, full stack dev currently working with wordpress and wordpress accessories. personally a big fan of containers.
