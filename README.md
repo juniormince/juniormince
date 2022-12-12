@@ -4,7 +4,7 @@
 
 <img align="right" alt="A gif of Buster with the dialog Im having real trouble in a confined indoor space" src="https://media.giphy.com/media/3ZA1S5ZYwSRzy/giphy.gif" width="305px;">
 
-hail and well met fools. i'm jawz, dev/platform engineer, working in devops and devops accessories. 
+hail and well met fools. i'm jawz, platform engineer, working in devops and devops accessories. 
 
 * 🌱 learning: terraform ⛰️, docker 🐳, русский язык🪆, how to beat malenia, blade of miquella without yelling
 * 🛸 likes: clean sass files, bubble tea, d&d, drums, my hero pal gonzo
