@@ -8,7 +8,7 @@ hail and well met fools. i'm jawz, platform engineer, working in devops and devo
 
 * 🌱 learning: terraform ⛰️, docker 🐳, русский язык🪆, how to beat malenia, blade of miquella without yelling
 * 🛸 likes: clean sass files, bubble tea, d&d, drums, my hero pal gonzo
-* ⚔️️ dislikes: gpg keychain, drupal's naming conventions, jquery's whole deal
+* ⚔️️ dislikes: gpg keychain, drupal naming conventions, jquery's whole deal
 * 🔮 neutral comments: eslint is a humbling experience, i disagree with double-kick pedals in general but do your thing
 * 🦂 weaknesses: hot beverages. who has time for sips when cold press <sub>exists</sub>
 
