@@ -14,6 +14,6 @@ hail and well met fools. i'm jawz, platform engineer, working in devops and devo
 
 ### dog <sup>tax</sup> ###
 
-<img align="left" src="https://media.discordapp.net/attachments/796025847966466058/927989879340675093/20220104_122011.jpg?width=300&height=300" alt="gonzo the hellhound"/>
+<img align="left" src="https://github.com/juniormince/juniormince/assets/34174060/0bb4b447-d8e0-4435-a6d0-e2cf3728908a" width="300" alt="gonzo the hellhound"/>
 
 ![Visitor Count](https://profile-counter.glitch.me/%7Bjuniormince%7D/count.svg)
