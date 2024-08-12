@@ -7,7 +7,7 @@
 howdy and salutations. i'm jaz, a platform engineer \
 working in devops and devops accessories.
 
-* 🌱 learning: golang 🐹, building a better cli (for a better You), gh workflows and the art of helm charts, terraform ⛰️, русский язык🪆, how to beat malenia, blade of miquella (without yelling)
+* 🌱 learning: golang 🐹, gh workflows and the art of helm charts, building a better cli (for a better You), terraform ⛰️, русский язык🪆, how to beat malenia, blade of miquella (without yelling)
 * 🛸 likes: maps and infra diagrams, archeological digs through legacy code, this go err specifically: `cyclomatic complexity 13 of func is high (>10)`, bubble tea, d&d, drums, my hero pal gonzo 🐾
 * ⚔️️ dislikes: setting up gpg keychain, the consequences of neglecting maintenance, olives (i'm trying)
 * 🔮 neutral comments: pronouncing kubectl like cube or koob are both valid, \
