@@ -4,7 +4,7 @@
 
 <img align="right" alt="A gif of Buster with the dialog Im having real trouble in a confined indoor space" src="https://media.giphy.com/media/3ZA1S5ZYwSRzy/giphy.gif" width="305px;">
 
-howdy and salutations. i'm jaz, a platform engineer \
+howdy and salutations. i'm jazzy, a platform engineer \
 working in devops and devops accessories.
 
 * 🌱 learning: golang 🐹, gh workflows and the art of helm charts, building a better cli (for a better You), terraform ⛰️, русский язык🪆, how to beat malenia, blade of miquella (without yelling)
