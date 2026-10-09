@@ -17,5 +17,3 @@ i disagree with double-kick pedals in general but do your thing
 ### dog <sup>tax</sup> ###
 
 <img align="left" src="https://github.com/juniormince/juniormince/assets/34174060/0bb4b447-d8e0-4435-a6d0-e2cf3728908a" width="300" alt="img of lord gonzo, the anti-anxiety goblin pup"/>
-
-![Visitor Count](https://profile-counter.glitch.me/%7Bjuniormince%7D/count.svg)
